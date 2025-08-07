@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ![Header](./github-header-banner.png)
 
 
