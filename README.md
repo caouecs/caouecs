@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![Header](./github-header-banner.png)
+
+
 <!--
 **caouecs/caouecs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
